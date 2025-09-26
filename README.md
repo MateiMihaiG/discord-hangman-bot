@@ -13,8 +13,11 @@ Players can guess letters until they find the word — or get "hanged."
 
 ---
 
-![Setup preview](https://i.postimg.cc/rpWw4Tyq/Screenshot-3.png))
+## Screenshots
 
+![Setup Preview](https://i.postimg.cc/rpWw4Tyq/Screenshot-3.png)
+![Commands Preview](https://i.postimg.cc/1z63FSRR/Screenshot-4.png)
+![Thread Preview](https://i.postimg.cc/qvyPXvnH/Screenshot-6.png))
 ---
 
 ## Installation
