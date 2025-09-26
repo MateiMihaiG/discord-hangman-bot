@@ -1,0 +1,57 @@
+{
+  "animale": [
+    "arici",
+    "balena",
+    "caine",
+    "caprioara",
+    "girafa",
+    "iepure",
+    "papagal",
+    "pisica",
+    "porc",
+    "urs",
+    "vulpe"
+  ],
+  "orase": [
+    "brasov",
+    "bucuresti",
+    "cluj",
+    "constanta",
+    "iasi",
+    "sibiu",
+    "timisoara"
+  ],
+  "fructe": [
+    "banana",
+    "kiwi",
+    "mar",
+    "para",
+    "piersica",
+    "portocala",
+    "struguri"
+  ],
+  "tehnologie": [
+    "algoritm",
+    "browser",
+    "internet",
+    "javascript",
+    "retea",
+    "server",
+    "typescript"
+  ],
+  "random": [
+    "carte",
+    "hangman",
+    "laptop",
+    "muzica",
+    "programare",
+    "romania",
+    "soare",
+    "teatru"
+  ],
+  "device": [
+    "monitor",
+    "tableta",
+    "telefon"
+  ]
+}
