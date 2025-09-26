@@ -44,27 +44,33 @@ Players can guess letters until they find the word — or get "hanged."
    ```bash
    git clone https://github.com/MateiMihaiG/discord-hangman-bot.git
    cd discord-hangman-bot
+   ```
 
 2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-`npm install`
-
-3. Create a .env file in the root folder ( or edit the one I uploaded ):
-
-`DISCORD_TOKEN=your_discord_bot_token `
-`CLIENT_ID=your_application_id `
-`GUILD_ID=your_guild_id `
+3. Create a `.env` file in the root folder (or edit the one provided):
+   ```bash
+   DISCORD_TOKEN=your_discord_bot_token
+   CLIENT_ID=your_application_id
+   GUILD_ID=your_guild_id
+   ```
 
 4. Build the TypeScript project:
-
-`npm run build`
+   ```bash
+   npm run build
+   ```
 
 5. Start the bot:
+   ```bash
+   npm start
+   ```
 
-`npm start`
+---
 
+## 🌐 Bot Language
 
-
-## Bot Language
-
-Bot words, commands, etc are in Romanian since I've made this bot for a friend. You have to translate it. 
+All bot messages and commands are currently in **Romanian** since this bot was originally built for a friend.  
+If you want to use it in another language, you will need to translate the strings.
