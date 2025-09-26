@@ -13,14 +13,14 @@ Players can guess letters until they find the word — or get "hanged."
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/MateiMihaiG/discord-hangman-bot.git
    cd discord-hangman-bot
 
-   2. Install dependencies:
+2. Install dependencies:
 
 npm install
 
