@@ -51,7 +51,9 @@ Players can guess letters until they find the word — or get "hanged."
 
 3. Create a .env file in the root folder ( or edit the one I uploaded ):
 
-```env DISCORD_TOKEN=your_discord_bot_token CLIENT_ID=your_application_id GUILD_ID=your_guild_id ``` 
+`DISCORD_TOKEN=your_discord_bot_token `
+`CLIENT_ID=your_application_id `
+`GUILD_ID=your_guild_id `
 
 4. Build the TypeScript project:
 
