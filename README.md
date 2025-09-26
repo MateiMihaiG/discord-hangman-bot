@@ -13,6 +13,10 @@ Players can guess letters until they find the word — or get "hanged."
 
 ---
 
+![Setup preview](https://i.postimg.cc/rpWw4Tyq/Screenshot-3.png))
+
+---
+
 ## Installation
 
 1. Clone the repository:
